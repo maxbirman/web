@@ -1,0 +1,11 @@
+50E;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;lan1;lan2;lan3;lan4;lan5;lookback0;;;;;;;;;;;;;;;
+60E;wan1;wan2;internal1;internal2;internal3;internal4;internal5;internal6;internal7;lookback0;npu0_vlink0;npu0_vlink1;;;;;;;;;;;;;;
+80E;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;port1;port2;port3;port4;port5;port6;port7;port8;port9;port10;port11;port12;lo0;;;;;;;;
+90E;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;;;;;;;;;;;;;;;;;;;;;
+100E;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;;;;;;;;;;;;;;;;;;;;;
+200E;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;port1;port2;port3;port4;port5;port6;port7;port8;port9;port10;port11;port12;port13;port14;lo0;;;;;;
+40F;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;;;;;;;;;;;;;;;;;;;;;
+60F;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;internal1;internal2;internal3;internal4;internal5;;;;;;;;;;;;;;;;
+80F;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;internal1;internal2;internal3;internal4;internal5;internal6;;;;;;;;;;;;;;;
+100F;wan1;wan2;npu0_vlink0;npu0_vlink1;LAN;port1;port2;port3;port4;port5;port6;port7;port8;port9;port10;port11;port12;port13;port14;port15;port16;port17;port18;port19;port20;lo0
+200F;port1;port2;port3;port4;port5;port6;port7;port8;port9;port10;port11;port12;port13;port14;port15;port16;lo0;npu0_vlink0;npu0_vlink1;;;;;;;
